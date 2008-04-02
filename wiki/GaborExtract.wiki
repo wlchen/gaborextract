@@ -1,4 +1,4 @@
-#Gabor Wavelets features extraction
+Gabor Wavelets features extraction
 
 = Introduction =
 
